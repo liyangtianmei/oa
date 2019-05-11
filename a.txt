@@ -8,3 +8,4 @@
 update master
 update dev
 remote test
+local test
